@@ -7,6 +7,8 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
+
 }
 
 .productCard img {
@@ -44,4 +46,13 @@
 
 .productCard button:hover {
   background-color: #103f80;
+}
+
+.productCard .remove{
+  background-color: #ac0d14;
+
+}
+
+.productCard .remove:hover{
+  background-color: #8e090f;
 }
